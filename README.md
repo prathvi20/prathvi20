@@ -18,6 +18,7 @@
 - [📷 Instagram Profile](https://www.instagram.com/truesyanic.yt/)
 - [📨 DM me on Discord](https://discord.com/users/771740239931768892)
 
+[![](https://discord.c99.nl/widget/theme-1/771740239931768892.png)](https://discord.com/users/771740239931768892/)
 
 <br/><br/>
 
