@@ -1,16 +1,26 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**prathvi20/prathvi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="64px" height="64px" alt="profile" src="https://avatars.githubusercontent.com/u/110330882?v=4" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I'm Student, Coder, and YouTuber (3.50k+)
+
+- :fire: **I'm currently doing YouTube mostly** 
+- 🤗 **A student from 7th Class**
+- :books: **I'm looking for something..** 
+- :rocket: **Goals: Become an Sucessful YouTuber** 
+- :raised_hands: **Fun fact: Nothing here 😅** 
+
+<img align="left" width="42px" height="42px" alt="profile" src="https://cdn-icons-png.flaticon.com/512/4659/4659012.png" />
+
+## Find me around the web 
+- [📹 YouTube Channel](https://www.youtube.com/c/TrueSyanic/videos) 
+- [📷 Instagram Profile](https://www.instagram.com/truesyanic.yt/)
+- [📨 DM me on Discord](https://discord.com/users/771740239931768892)
+
+
+<br/><br/>
+
+ Overall Stats             |  Contribution Stats
+:-------------------------:|:-------------------------:
+![prathvi20's Github Stats](https://github-readme-stats.vercel.app/api?username=prathvi20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)  |  ![prathvi20's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=prathvi20&include_all_commits=true&hide_border=true&theme=gruvbox)
