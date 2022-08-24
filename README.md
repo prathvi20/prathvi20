@@ -25,3 +25,5 @@
  Overall Stats             |  Contribution Stats
 :-------------------------:|:-------------------------:
 ![prathvi20's Github Stats](https://github-readme-stats.vercel.app/api?username=prathvi20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)  |  ![prathvi20's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=prathvi20&include_all_commits=true&hide_border=true&theme=gruvbox)
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=prathvi20&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p>
